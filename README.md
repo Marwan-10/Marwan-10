@@ -59,7 +59,7 @@
 > Journal de bord personnel regroupant mes apprentissages issus de formations Udemy : outils comme **Nmap**, **Wireshark**, **Metasploit**, et **Kali Linux**.
 > 
 > 🔧 **Technologies** : Markdown · Linux · Nmap  
-> 🔗 [Lien GitHub – à compléter](#)
+> 🔗 [Lien GitHub](https://github.com/Marwan-10/JournalCyberSecurity)
 
 ---
 
