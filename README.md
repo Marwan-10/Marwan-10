@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Marwan
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ton-pseudo-github/ton-pseudo-github/main/assets/avatar.PNG" 
+  <img src="[https://raw.githubusercontent.com/ton-pseudo-github/ton-pseudo-github/main/assets/avatar.PNG](https://github.com/Marwan-10/Marwan-10/blob/main/assets/avatar.PNG)" 
        alt="M avatar" width="150" style="border-radius:50%;">
 </p>
 
