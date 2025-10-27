@@ -47,7 +47,7 @@
 
 ## 🚀 Mes projets
 
-### 🎮 **Jeu éducatif 2D (Unity & C#)**
+### 🎮 **Jeu éducatif 2D (Unity, C#, Python et Sql)**
 > Développement d’un jeu éducatif multiplateforme (PC & Android) avec une base de données SQL pour gérer les questions et résultats.
 > 
 > 🔧 **Technologies** : Unity · C# · SQL  
