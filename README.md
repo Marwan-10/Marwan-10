@@ -51,7 +51,7 @@
 > Développement d’un jeu éducatif multiplateforme (PC & Android) avec une base de données SQL pour gérer les questions et résultats.
 > 
 > 🔧 **Technologies** : Unity · C# · SQL  
-> 🔗 [Lien GitHub – à compléter](#)
+> 🔗 [Lien GitHub](https://github.com/Marwan-10/ProjetJeux2D)
 
 ---
 
