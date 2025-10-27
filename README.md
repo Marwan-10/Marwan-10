@@ -1,7 +1,7 @@
-# 👋 Bonjour, je suis Marwan
+# 👋 Marwan
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/ton-pseudo-github/ton-pseudo-github/main/assets/avatar.PNG](https://github.com/Marwan-10/Marwan-10/blob/main/assets/avatar.PNG)" 
+  <img src="assets/avatar.PNG" 
        alt="M avatar" width="150" style="border-radius:50%;">
 </p>
 
@@ -9,6 +9,12 @@
 🎓 Étudiant en **Master 2 Informatique — Parcours ARIAS** (Applications Réparties, Intelligence Artificielle et Sécurité) à l’Université d'Orléans, France.  
 💡 Passionné par **l’intelligence artificielle**, le **développement d’applications** et la **cybersécurité**.  
 🎯 Actuellement à la **recherche d’un stage** à partir d’**avril 2025**.
+
+---
+
+## 📫 Me contacter
+- 💼 [LinkedIn – à compléter](#)
+- 🌐 [Portfolio – à compléter](#)
 
 ---
 
@@ -74,16 +80,7 @@
 
 ---
 
-## 📫 Me contacter
-- 💼 [LinkedIn – à compléter](#)
-- 🌐 [Portfolio – à compléter](#)
-- ✉️ Contactez-moi sur GitHub ou via LinkedIn pour toute opportunité de stage à partir d’avril 2025.
 
----
 
-## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ton-pseudo-github&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo-github&layout=compact&theme=transparent&hide_border=true)
 
----
 
