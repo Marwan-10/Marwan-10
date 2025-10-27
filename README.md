@@ -76,7 +76,7 @@
 > Assistant vocal inspiré d’Iron Man, utilisant **Python** et l’**API ChatGPT** pour interagir par la voix et exécuter des commandes sur l’ordinateur.
 > 
 > 🔧 **Technologies** : Python · OpenAI API · SpeechRecognition  
-> 🔗 [Lien GitHub – à compléter](#)
+> 🔗 [Lien GitHub](https://github.com/Marwan-10/AssistantJarvis)
 
 ---
 
