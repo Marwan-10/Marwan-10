@@ -14,7 +14,7 @@
 
 ## 📫 Me contacter
 - 💼 [LinkedIn](https://www.linkedin.com/in/marwan-laaguid-bb6780257/)
-- 🌐 [Portfolio – à compléter](#)
+- 🌐 [Portfolio](https://marwan-10.github.io/SitePortfolio/)
 
 ---
 
@@ -68,7 +68,7 @@
 > 
 > 🔧 **Technologies** : React · Next.js · TailwindCSS · CSS Animation  
 > 🔗 [Lien GitHub](https://github.com/Marwan-10/MonPortfolio)  
-> 🌐 [Lien vers le portfolio – à compléter](#)
+> 🌐 [Lien vers le portfolio](https://marwan-10.github.io/SitePortfolio/)
 
 ---
 
