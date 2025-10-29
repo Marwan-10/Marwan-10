@@ -13,7 +13,7 @@
 ---
 
 ## 📫 Me contacter
-- 💼 [LinkedIn – à compléter](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marwan-laaguid-bb6780257/)
 - 🌐 [Portfolio – à compléter](#)
 
 ---
