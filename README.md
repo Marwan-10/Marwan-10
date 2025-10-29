@@ -67,7 +67,7 @@
 > Mon site portfolio (celui que vous visitez peut-être en ce moment !), développé avec **React**, **Next.js**, et **TailwindCSS**.
 > 
 > 🔧 **Technologies** : React · Next.js · TailwindCSS · CSS Animation  
-> 🔗 [Lien GitHub – à compléter](#)  
+> 🔗 [Lien GitHub](https://github.com/Marwan-10/MonPortfolio)  
 > 🌐 [Lien vers le portfolio – à compléter](#)
 
 ---
